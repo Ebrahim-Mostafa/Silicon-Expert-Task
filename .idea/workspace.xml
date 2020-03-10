@@ -22,8 +22,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ATUTestRecorder_2.1/ATUTestRecorder_2.1.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data/ATUTestRecorder_2.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35172415" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -100,14 +100,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="254" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1583599168343" />
-    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1583608791623">
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1583860705245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583608791623" />
-    <state x="538" y="263" key="Github.ShareDialog" timestamp="1583708173216">
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583860705245" />
+    <state x="538" y="263" key="Github.ShareDialog" timestamp="1583709392111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="538" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583708173216" />
+    <state x="538" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583709392111" />
     <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1583610014618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -124,22 +124,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583610014618" />
-    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1583608039356">
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1583857966909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583608039356" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1583708064659">
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583857966909" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583860717092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583708064659" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583860717092" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1583590031612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1583590031612" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583707692617">
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583857838186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583707692617" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583857838186" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1583514629364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
